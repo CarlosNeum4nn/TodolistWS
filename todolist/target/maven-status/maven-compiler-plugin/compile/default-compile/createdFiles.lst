@@ -1,0 +1,10 @@
+br\com\poderosocarlinho\todolist\task\ITaskRepository.class
+br\com\poderosocarlinho\todolist\user\IUserRepository.class
+br\com\poderosocarlinho\todolist\Utils\Utils.class
+br\com\poderosocarlinho\todolist\filter\FilterTaskAuth.class
+br\com\poderosocarlinho\todolist\user\UserController.class
+br\com\poderosocarlinho\todolist\task\TaskModel.class
+br\com\poderosocarlinho\todolist\task\TaskController.class
+br\com\poderosocarlinho\todolist\TodolistApplication.class
+br\com\poderosocarlinho\todolist\errors\ExceptionHandlerController.class
+br\com\poderosocarlinho\todolist\user\UserModel.class
